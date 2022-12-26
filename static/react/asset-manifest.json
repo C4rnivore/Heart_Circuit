@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.e517a988.css",
+    "main.js": "/static/react/js/main.08abfa37.js",
+    "media/hands_heart.jpg": "/static/react/media/hands_heart.16ea1e68d6ca807b480b.jpg",
+    "media/logo.png": "/static/react/media/logo.7fb8c3d744f20e434d50.png",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "media/pfp_icon.svg": "/static/react/media/pfp_icon.af55c733cf1cfc261919dfd663ab430c.svg",
+    "main.e517a988.css.map": "/static/react/css/main.e517a988.css.map",
+    "main.08abfa37.js.map": "/static/react/js/main.08abfa37.js.map"
+  },
+  "entrypoints": [
+    "css/main.e517a988.css",
+    "js/main.08abfa37.js"
+  ]
+}
